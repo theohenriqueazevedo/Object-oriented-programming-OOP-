@@ -1,0 +1,6 @@
+# Object-Oriented Programming (OOP) Repository
+
+## Overview
+This repository contains examples, tutorials, and exercises to help you learn and practice Object-Oriented Programming (OOP). The material covers fundamental OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction, with code examples primarily in Python.
+
+## Repository Structure
